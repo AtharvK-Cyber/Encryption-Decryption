@@ -15,15 +15,6 @@ Enter the Text: Input the text you want to encrypt or decrypt into the provided 
 Provide Encryption Key: Enter a key for the encryption process.
 Encrypt/Decrypt: Use the provided buttons to perform the encryption or decryption.
 View Results: The results will be displayed in the output area.
-Getting Started:
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/AtharvK-Cyber/Encryption-Decryption
-open in browser
-
-
 
 Contributing:
 Feel free to submit issues, pull requests, or feedback. Contributions and suggestions are always welcome!
